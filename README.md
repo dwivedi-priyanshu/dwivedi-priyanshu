@@ -43,14 +43,14 @@
 
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="300" alt="pro coder" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="300" alt="coding guy" />
 </td>
 </tr>
 </table>
 
 ---
 
-## `~/skills --animated`
+## `~/skills --`
 
 <br/>
 
@@ -123,10 +123,7 @@
 
 <div align="center">
 
-<a href="https://github.com/dwivedi-priyanshu">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dwivedi-priyanshu&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=39ff14&icon_color=39ff14&text_color=ccffcc&include_all_commits=true&count_private=true&hide=contribs&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwivedi-priyanshu&hide_border=true&bg_color=0d0d0d&title_color=39ff14&text_color=ccffcc&layout=donut&langs_count=8" />
-</a>
+
 
 <br/><br/>
 

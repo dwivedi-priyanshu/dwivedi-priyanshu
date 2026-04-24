@@ -57,11 +57,11 @@
 ### ⚡ Languages
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />&nbsp;
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />&nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="65" height="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="65" height="65" />&nbsp;
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="65" height="65" />
 </div>
 
@@ -70,10 +70,10 @@
 ### 🎨 Frontend
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />&nbsp;
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="65" height="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="65" height="65" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="65" height="65" />
 </div>
 
@@ -82,11 +82,11 @@
 ### 🔧 Backend & Databases
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="65" height="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="65" height="65" />&nbsp;
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="65" height="65" />&nbsp;
   <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="65" height="65" />
 </div>
 
@@ -95,13 +95,13 @@
 ### ☁️ Cloud, DevOps & Tools
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />&nbsp;
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />&nbsp;
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="65" height="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="65" height="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="65" height="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="65" height="65" />&nbsp;
   <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="65" height="65" />
 </div>
 
@@ -110,11 +110,11 @@
 ### 🤖 Data Science & ML
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="65" height="65" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="65" height="65" />&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ---
@@ -122,8 +122,6 @@
 ## `~/github stats --all`
 
 <div align="center">
-
-
 
 <br/><br/>
 
@@ -160,27 +158,3 @@
 </a>
 
 <br/><br/>
-
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║     "First, solve the problem.                       ║
-║      Then, write the code."   — John Johnson         ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Star+%E2%AD%90+some+repos+if+you+find+them+useful!;Always+open+to+collaborating+on+cool+projects+%F0%9F%9A%80" />
-
-</div>
-
----
-
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d2e0d,100:000000&height=100&section=footer&stroke=39ff14&strokeWidth=1&reversal=true" />
-
-<div align="center">
-  <sub>⚡ crafted with focus & consistency — <a href="https://github.com/dwivedi-priyanshu">@dwivedi-priyanshu</a></sub>
-</div>

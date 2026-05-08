@@ -57,12 +57,14 @@
 ### ⚡ Languages
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="65" height="65" />
+<table><tr>
+<td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /></td>
+<td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></td>
+<td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></td>
+<td><img src="https://skillicons.dev/icons?i=c&theme=dark" width="65" height="65" /></td>
+<td><img src="https://skillicons.dev/icons?i=html&theme=dark" width="65" height="65" /></td>
+<td><img src="https://skillicons.dev/icons?i=css&theme=dark" width="65" height="65" /></td>
+</tr></table>
 </div>
 
 <br/>
@@ -70,11 +72,13 @@
 ### 🎨 Frontend
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=vite&theme=dark" width="65" height="65" />
+<table><tr>
+<td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /></td>
+<td><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" /></td>
+<td><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="65" height="65" /></td>
+<td><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="65" height="65" /></td>
+<td><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="65" height="65" /></td>
+</tr></table>
 </div>
 
 <br/>
@@ -82,12 +86,14 @@
 ### 🔧 Backend & Databases
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="65" height="65" />
+<table><tr>
+<td><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" /></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="65" height="65" /></td>
+<td><img src="https://skillicons.dev/icons?i=express&theme=dark" width="65" height="65" /></td>
+<td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="65" height="65" /></td>
+<td><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="65" height="65" /></td>
+</tr></table>
 </div>
 
 <br/>
@@ -95,14 +101,16 @@
 ### ☁️ Cloud, DevOps & Tools
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="65" height="65" />
+<table><tr>
+<td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" /></td>
+<td><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /></td>
+<td><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /></td>
+<td><img src="https://skillicons.dev/icons?i=git&theme=dark" width="65" height="65" /></td>
+<td><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="65" height="65" /></td>
+<td><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="65" height="65" /></td>
+<td><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="65" height="65" /></td>
+<td><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="65" height="65" /></td>
+</tr></table>
 </div>
 
 <br/>
@@ -110,11 +118,13 @@
 ### 🤖 Data Science & ML
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="65" height="65" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<table><tr>
+<td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></td>
+<td><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="65" height="65" /></td>
+<td><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="45" /></td>
+<td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="45" /></td>
+<td><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="45" /></td>
+</tr></table>
 </div>
 
 ---
